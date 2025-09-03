@@ -10,9 +10,3 @@ This repository contains my projects and exercises from my journey in learning P
 - **05_AWS_Serverless** → boto3, Lambda mini ETL
 - **06_Advanced** → Asynchronous programming, multiprocessing, pytest
 
-## How to Run
-All files are written to run on Python 3.10+.
-Example:
-```bash
-python 02_OOP/bank_account.py
-```
