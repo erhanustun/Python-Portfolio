@@ -17,6 +17,7 @@ def binary_search(arr, x):
     """
     Performs a binary search.
     It works only on a sorted list and is much more efficient.
+    The basic principle is to split the search area in half at each step. This allows the searched item to be found much more quickly.
     """
     low = 0
     high = len(arr) - 1
